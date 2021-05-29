@@ -63,8 +63,7 @@ public class DataHelperBase {
                 val prepareStatPay = connection.createStatement();
                 val prepareStatCredit = connection.createStatement();
                 val prepareStatOrder = connection.createStatement();
-
-        ) {
+         ) {
             prepareStatPay.executeUpdate(pays);
             prepareStatCredit.executeUpdate(credits);
             prepareStatOrder.executeUpdate(orders);

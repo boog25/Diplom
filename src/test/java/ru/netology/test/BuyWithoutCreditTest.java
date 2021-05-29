@@ -63,7 +63,6 @@ public class BuyWithoutCreditTest {
         val expected = DataHelper.getSecondCardExpectedStatus();
         val actual = DataHelperBase.getStatusPaymentWithoutCredit();
         assertEquals(expected, actual);
-
     }
 
     @Test
