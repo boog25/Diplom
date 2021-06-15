@@ -21,6 +21,7 @@
 * [Bug3](https://github.com/boog25/Diplom-1/issues/3)
 * [Bug4](https://github.com/boog25/Diplom-1/issues/4)
 * [Bug5](https://github.com/boog25/Diplom-1/issues/5)
+* [Bug6](https://github.com/boog25/Diplom-1/issues/6)
 
 ### Вывод:
 По результатам тестирования было выявлено 5 дефектов. Выявленные дефекты являются критичными, т.к. веду к потере репутационных и финансовых рисков. Выявленные баги необходимо исправить в короткий срок.
